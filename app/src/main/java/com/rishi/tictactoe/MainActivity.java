@@ -89,6 +89,7 @@ public class MainActivity extends AppCompatActivity {
       ((ImageView)findViewById(R.id.imageView8)).setImageResource(0);
       TextView status = findViewById(R.id.status);
       status.setText("X's turn");
+      activePlayer = 0;
       gameActive = true;
 
   }
