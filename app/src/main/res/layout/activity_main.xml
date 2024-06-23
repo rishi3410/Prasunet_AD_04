@@ -11,15 +11,15 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="267dp"
+        android:layout_width="match_parent"
         android:layout_height="67dp"
-        android:layout_marginTop="16dp"
+        android:background="#6750A3"
         android:fontFamily="@font/caveat_bold"
         android:rotationX="0"
         android:text="@string/heading"
         android:textAlignment="center"
         android:textAllCaps="false"
-        android:textColor="@color/material_dynamic_tertiary30"
+        android:textColor="#CBC0C4"
         android:textSize="48sp"
         android:textStyle="bold"
         android:typeface="monospace"
